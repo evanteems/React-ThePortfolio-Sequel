@@ -1,0 +1,19 @@
+{
+  "name": "react-theportfolio-sequel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanteems/React-ThePortfolio-Sequel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanteems/React-ThePortfolio-Sequel/issues"
+  },
+  "homepage": "https://github.com/evanteems/React-ThePortfolio-Sequel#readme"
+}
